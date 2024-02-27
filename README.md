@@ -1,49 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        .content {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-            align-items: flex-start;
-        }
-        .text {
-            flex: 1;
-            margin-right: 20px;
-        }
-        .image {
-            flex: 1;
-        }
-        .image img {
-            border-radius: 5px;
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
-</head>
 <body>
-    <div class="content">
-        <div class="text">
-            <h1 align="center">Hi 👋, I'm Binayak Kunwor</h1>
-            <h3 align="center">A passionate Information Technology Student From Nepal</h3>
-            <p align="left"> 
-                <img src="https://komarev.com/ghpvc/?username=nayakops&label=Profile%20views&color=0e75b6&style=flat" alt="nayakops" /> 
-            </p>
-            <ul>
-                <li>🌱 I’m currently learning <strong>React.js, Responsive WebDesign</strong></li>
-                <li>📝 I regularly write articles on <a href="https://medium.com/@binayak.kunwor2002">https://medium.com/@binayak.kunwor2002</a></li>
-                <li>💬 Ask me about <strong>JavaScript, React.js</strong></li>
-                <li>📫 How to reach me <strong>binayak.kunwor2002@gmail.com</strong></li>
-            </ul>
-        </div>
-        <div class="image">
-            <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" alt="" width="50%" height="400px">
-        </div>
-    </div>
+    <h1 align="center">Hi 👋, I'm Binayak Kunwor</h1>
+    <h3 align="center">A passionate Information Technology Student From Nepal</h3>
+    <p align="left"> 
+        <img src="https://komarev.com/ghpvc/?username=nayakops&label=Profile%20views&color=0e75b6&style=flat" alt="nayakops" /> 
+    </p>
+    <ul style="display: flex; justify-content: space-between;">
+        <li style="flex: 1; margin-right: 20px;">
+            🌱 I’m currently learning <strong>React.js, Responsive WebDesign</strong>
+        </li>
+        <li style="flex: 1;">
+            <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" alt="" width="50%" height="400px" style="border-radius: 5px; display: block; margin: 0 auto;">
+        </li>
+    </ul>
+    <ul>
+        <li>📝 I regularly write articles on <a href="https://medium.com/@binayak.kunwor2002">https://medium.com/@binayak.kunwor2002</a></li>
+        <li>💬 Ask me about <strong>JavaScript, React.js</strong></li>
+        <li>📫 How to reach me <strong>binayak.kunwor2002@gmail.com</strong></li>
+    </ul>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://linkedin.com/in/binayak kunwor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binayak kunwor" height="30" width="40" /></a>
