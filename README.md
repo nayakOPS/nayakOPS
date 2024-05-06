@@ -8,11 +8,11 @@
 <img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" alt="" width="50%" height="400px" style="border-radius: 5px; margin-left: 25%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayakops&label=Profile%20views&color=0e75b6&style=flat" alt="nayakops" /> </p>
 
-- 🌱 I’m currently learning **React.js, Responsive WebDesign**
+- 🌱 I’m currently learning **React.js, Solidity, Nodejs, Python , Exploring BlockChain Technology**
 
 - 📝 I regularly write articles on [https://medium.com/@binayak.kunwor2002](https://medium.com/@binayak.kunwor2002)
 
-- 💬 Ask me about **JavaScript, React.js**
+- 💬 Ask me about **JavaScript, BlockChain Technology, WebDevelopment**
 
 - 📫 How to reach me **binayak.kunwor2002@gmail.com**
 
