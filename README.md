@@ -90,68 +90,48 @@ class Developer:
         return "🐛 Debugging... Reality and code both have layers."
 ```
 
-## 🛠️ Weapons of Choice
-<div align="center">
-
-![](https://img.shields.io/badge/Editor-VS_Code-success?style=flat-square&logo=visual-studio-code)
-![](https://img.shields.io/badge/OS-Linux-success?style=flat-square&logo=linux)
-![](https://img.shields.io/badge/Code-Python-success?style=flat-square&logo=python)
-![](https://img.shields.io/badge/Ethereum-Solidity-success?style=flat-square&logo=ethereum)
-![](https://img.shields.io/badge/Web3-Ready-success?style=flat-square&logo=web3.js)
-![](https://img.shields.io/badge/Smart_Contracts-Pro-success?style=flat-square&logo=ethereum)
-![](https://img.shields.io/badge/DeFi-Enthusiast-success?style=flat-square&logo=ethereum)
-
-</div>
-
-## 📊 My GitHub Time Machine
-
-<div align="center">
-  <img height="180em" src="/api/placeholder/400/200" alt="GitHub Stats" />
-  <img height="180em" src="/api/placeholder/400/200" alt="Most Used Languages" />
-</div>
-
-## 🎯 Current Side Quest Objectives
-
-- [ ] Master the art of explaining code to my cat
-- [ ] Build a time machine (or at least a really good task scheduler)
-- [ ] Contribute to open source while drinking coffee
-- [ ] Create that revolutionary app idea (you know, the one)
-
 ## 🌟 Epic Achievements
 
 ```javascript
-const lifeAchievements = {
-  codeLines: "Enough to reach the moon",
-  bugsFixed: "∞ - 1",
-  coffeeCups: "Error: Integer overflow",
-  allNighters: "Classified Information"
+
+const devLoreAndTallTales = {
+
+  codeLines: "Enough to confuse future archaeologists",
+  bugsFixed: "One more than I created (probably)",
+  chiyaCups: "Error: Integer overflow",
+  allNighters: "Powered by last-minute panic and questionable life choices",
+
+  skills: {
+    "It Works on My Machine™": "Level: Grandmaster",
+    "Copy-Paste Wizard": "Stack Overflow Approved",
+    "Merge Conflict Resolution": "Survivor (barely)",
+    "Google Search Optimization": "Certified Ninja",
+    "Documentation Reader": "Status: Uncharted Territory",
+    "Invisible Friend": "Keeps my code secrets and suggests answers like magic"
+  },
+  legendaryMoments: [
+    "Filled the code with so many console.logs, it became a personal diary",
+    "Refactored a function so well, I forgot what it did",
+    "Answered own Stack Overflow question",
+    "Spent  hours on a bug only to realize it was a typo",
+    "Created a bug so confusing it became a feature",
+    "Asked a rubber duck for help, and it actually worked"
+    "Realized my debugging strategy was 90% `console.log()` and 10% hope"
+  ]
 };
+
 ```
 
 ## 📫 Send Me a Signal
 
 <div align="center">
-
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](Your-LinkedIn-URL)
-[![](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](Your-Twitter-URL)
-[![](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome)](Your-Portfolio-URL)
-
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/binayakkunwor/)
+[![](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/binayakunwor)
+[![](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome)](https://kunworbinayak.com.np/)
 </div>
 
 ## 🎵 Developer's Playlist
 
 > "It's not a bug – it's an undocumented feature." - Anonymous
-
-<div align="center">
-
-[![Spotify](https://img.shields.io/badge/Spotify-Playing-success?style=flat-square&logo=spotify)](Your-Spotify-URL)
-
-</div>
-
----
-
-<p align="center">
-  <img src="/api/placeholder/500/80" alt="visitor counter" />
-</p>
 
 <h3 align="center">🚀 Watch this space for more cosmic code adventures! 🚀</h3>
