@@ -79,7 +79,9 @@ class Developer:
     def __init__(self):
         self.languages = ["JavaScript", "TypeScript", "Python", "Solidity"]
         self.challenge = "Building something that matters"
+        self.databases = ["MongoDB", "MySQL"]
         self.learning = ["Rust", "Anchor", "Move", "Tokenomics"]
+
         
     def drink_chiya(self):
         return "☕ Energy restored! Ready for more bugs!"
@@ -94,6 +96,10 @@ class Developer:
 ![](https://img.shields.io/badge/Editor-VS_Code-success?style=flat-square&logo=visual-studio-code)
 ![](https://img.shields.io/badge/OS-Linux-success?style=flat-square&logo=linux)
 ![](https://img.shields.io/badge/Code-Python-success?style=flat-square&logo=python)
+![](https://img.shields.io/badge/Ethereum-Solidity-success?style=flat-square&logo=ethereum)
+![](https://img.shields.io/badge/Web3-Ready-success?style=flat-square&logo=web3.js)
+![](https://img.shields.io/badge/Smart_Contracts-Pro-success?style=flat-square&logo=ethereum)
+![](https://img.shields.io/badge/DeFi-Enthusiast-success?style=flat-square&logo=ethereum)
 
 </div>
 
