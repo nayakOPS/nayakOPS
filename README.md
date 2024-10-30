@@ -125,13 +125,21 @@ const devLoreAndTallTales = {
 ## 📫 Send Me a Signal
 
 <div align="center">
+  
 [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/binayakkunwor/)
 [![](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/binayakunwor)
 [![](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome)](https://kunworbinayak.com.np/)
+
 </div>
 
 ## 🎵 Developer's Playlist
 
 > "It's not a bug – it's an undocumented feature." - Anonymous
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-Playing-success?style=flat-square&logo=spotify)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+</div>
 
 <h3 align="center">🚀 Watch this space for more cosmic code adventures! 🚀</h3>
