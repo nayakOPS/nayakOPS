@@ -64,12 +64,15 @@
 ```
 
 ## About the Developer Behind the Screen
-[YourName]@github:~$ system_info
-OS: Life v30.2
-Uptime: [Your Age] years
+
+```bash
+[Binayak_Kunwor]@github:~$ system_info
+OS: Life v22. LTS 🌎
+Uptime: Unknown (but still kicking)
 Shell: Human/Developer/1.0
-Terminal: VS Code
-### 🔮 My Tech Crystal Ball
+Terminal: Curiosity Terminal
+Hobbies: Debugging reality, breaking code (and sometimes fixing it)
+```
 
 ```python
 class Developer:
