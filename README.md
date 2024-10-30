@@ -1,4 +1,5 @@
 <h1 align="center">
+  👋
   <img src="/api/placeholder/36/36" alt="wave" /> Hello Universe, I'm [Your Name]
   <img src="/api/placeholder/36/36" alt="tech" />
 </h1>
