@@ -2,7 +2,11 @@
   👋 Hello GITverse, I'm Binayak Kunwor 🕶️
 </h1>
 
-                                  ![Profile Picture](1730285626-27.34.66.159.png)
+<div align="center">
+  
+![Profile Picture](1730285626-27.34.66.159.png)
+
+</div>
 
 ```ascii
     
