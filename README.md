@@ -57,20 +57,18 @@
                                                     ____________/|\____________
                                                     |   Building the Future   |
                                                     |    One Block at a Time  |
-                                                    -------------------------- 
-       
-
-
+                                                    --------------------------
+                                                               /\_/\  
+                                                              ( o.o ) 
+                                                               > ^ <
 ```
 
-## 🚀 About the Developer Behind the Screen
-
-Hey there! I'm not your typical developer. When I'm not pushing commits, you might find me:
-- 🎮 Battling boss levels in [Your Favorite Game]
-- 🎨 Creating pixel art of my debugging nightmares
-- 🌱 Growing my own herbs (and occasionally killing them)
-- 🎸 Strumming my guitar to rubber duck debug
-
+## About the Developer Behind the Screen
+[YourName]@github:~$ system_info
+OS: Life v30.2
+Uptime: [Your Age] years
+Shell: Human/Developer/1.0
+Terminal: VS Code
 ### 🔮 My Tech Crystal Ball
 
 ```python
