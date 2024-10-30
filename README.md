@@ -1,36 +1,104 @@
-<!-- https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif -->
+<h1 align="center">
+  <img src="/api/placeholder/36/36" alt="wave" /> Hello Universe, I'm [Your Name]
+  <img src="/api/placeholder/36/36" alt="tech" />
+</h1>
 
-<!DOCTYPE html>
-<html lang="en">
-<body>
-    <h1 align="center">Hi 👋, I'm Binayak Kunwor</h1>
-<h3 align="center">A passionate Information Technology Student From Nepal</h3>
-<img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif" alt="" width="50%" height="400px" style="border-radius: 5px; margin-left: 25%;">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayakops&label=Profile%20views&color=0e75b6&style=flat" alt="nayakops" /> </p>
-
-- 🌱 I’m currently learning **React.js, Solidity, Nodejs, Python , Exploring BlockChain Technology**
-
-- 📝 I regularly write articles on [https://medium.com/@binayak.kunwor2002](https://medium.com/@binayak.kunwor2002)
-
-- 💬 Ask me about **JavaScript, BlockChain Technology, WebDevelopment**
-
-- 📫 How to reach me **binayak.kunwor2002@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/binayak-kunwor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binayak kunwor" height="30" width="40" /></a>
-<a href="https://medium.com/@binayak.kunwor2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@binayak kunwor" height="30" width="40" /></a>
+<p align="center">
+  <img src="/api/placeholder/800/200" alt="banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin-right:20px;"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right:20px;"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:20px;"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right:20px;"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-</body>
-</html>
+```ascii
+ ____________________________________
+/ Transforming coffee into code since \
+\ [Your Year]                        /
+ ------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+## 🚀 About the Developer Behind the Screen
+
+Hey there! I'm not your typical developer. When I'm not pushing commits, you might find me:
+- 🎮 Battling boss levels in [Your Favorite Game]
+- 🎨 Creating pixel art of my debugging nightmares
+- 🌱 Growing my own herbs (and occasionally killing them)
+- 🎸 Strumming my guitar to rubber duck debug
+
+### 🔮 My Tech Crystal Ball
+
+```python
+class Developer:
+    def __init__(self):
+        self.current_role = "Your Role"
+        self.languages = ["Python", "JavaScript", "TypeScript"]  # Add yours
+        self.challenge = "Building something that matters"
+        self.learning = ["Rust", "WebAssembly"]  # What you're learning
+        
+    def drink_coffee(self):
+        return "🎯 Bug fixed!"
+```
+
+## 🛠️ Weapons of Choice
+<div align="center">
+
+![](https://img.shields.io/badge/Editor-VS_Code-success?style=flat-square&logo=visual-studio-code)
+![](https://img.shields.io/badge/OS-Linux-success?style=flat-square&logo=linux)
+![](https://img.shields.io/badge/Code-Python-success?style=flat-square&logo=python)
+
+</div>
+
+## 📊 My GitHub Time Machine
+
+<div align="center">
+  <img height="180em" src="/api/placeholder/400/200" alt="GitHub Stats" />
+  <img height="180em" src="/api/placeholder/400/200" alt="Most Used Languages" />
+</div>
+
+## 🎯 Current Side Quest Objectives
+
+- [ ] Master the art of explaining code to my cat
+- [ ] Build a time machine (or at least a really good task scheduler)
+- [ ] Contribute to open source while drinking coffee
+- [ ] Create that revolutionary app idea (you know, the one)
+
+## 🌟 Epic Achievements
+
+```javascript
+const lifeAchievements = {
+  codeLines: "Enough to reach the moon",
+  bugsFixed: "∞ - 1",
+  coffeeCups: "Error: Integer overflow",
+  allNighters: "Classified Information"
+};
+```
+
+## 📫 Send Me a Signal
+
+<div align="center">
+
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](Your-LinkedIn-URL)
+[![](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](Your-Twitter-URL)
+[![](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome)](Your-Portfolio-URL)
+
+</div>
+
+## 🎵 Developer's Playlist
+
+> "It's not a bug – it's an undocumented feature." - Anonymous
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-Playing-success?style=flat-square&logo=spotify)](Your-Spotify-URL)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="/api/placeholder/500/80" alt="visitor counter" />
+</p>
+
+<h3 align="center">🚀 Watch this space for more cosmic code adventures! 🚀</h3>
