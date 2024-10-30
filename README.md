@@ -77,13 +77,15 @@ Hobbies: Debugging reality, breaking code (and sometimes fixing it)
 ```python
 class Developer:
     def __init__(self):
-        self.current_role = "Your Role"
-        self.languages = ["Python", "JavaScript", "TypeScript"]  # Add yours
+        self.languages = ["JavaScript", "TypeScript", "Python", "Solidity"]
         self.challenge = "Building something that matters"
-        self.learning = ["Rust", "WebAssembly"]  # What you're learning
+        self.learning = ["Rust", "Anchor", "Move", "Tokenomics"]
         
-    def drink_coffee(self):
-        return "🎯 Bug fixed!"
+    def drink_chiya(self):
+        return "☕ Energy restored! Ready for more bugs!"
+
+    def debug_code(self):
+        return "🐛 Debugging... Reality and code both have layers."
 ```
 
 ## 🛠️ Weapons of Choice
