@@ -68,6 +68,7 @@ const devLoreAndTallTales = {
     "Documentation Reader": "Status: Uncharted Territory",
     "Invisible Friend": "Keeps my code secrets and suggests answers like magic"
   },
+
   legendaryMoments: [
     "Filled the code with so many console.logs, it became a personal diary",
     "Refactored a function so well, I forgot what it did",
