@@ -91,8 +91,8 @@ const devLoreAndTallTales = {
 [![](https://img.shields.io/badge/Portfolio-Visit-success?style=flat-square&logo=google-chrome)](https://kunworbinayak.com.np/)
 
 </div>
-### 📈Github Stats
-  <div>
+
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayakOPS&theme=react&layout=compact&border_color=7cebf5&border_radius=10" height="100%" width="34%"/>
   </div>
 
